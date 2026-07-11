@@ -1,0 +1,9 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border box;
+}
+section{
+  background: url("Image/IMG20251227100720.jpg");
+  border: 2px red solid;
+}
